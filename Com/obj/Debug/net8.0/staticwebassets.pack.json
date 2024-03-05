@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\1\\258e5aa4-156e-4cb2-a46c-271dd9485bf9_d1.png",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\1\\258e5aa4-156e-4cb2-a46c-271dd9485bf9_d1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\1\\5cdb7328-acd1-440d-9270-0e386bee4e1e_d3.jpg",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\1\\5cdb7328-acd1-440d-9270-0e386bee4e1e_d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\2\\c2261e16-aef3-42f7-b40f-910b06dac460_d3.jpg",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\2\\c2261e16-aef3-42f7-b40f-910b06dac460_d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\3\\0da70b0b-aa0a-4a3b-8f0a-d2ffcfd27115_d1.png",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\3\\0da70b0b-aa0a-4a3b-8f0a-d2ffcfd27115_d1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\4\\3aa80d71-97f4-41f5-98a1-02181bf8dd9b_d3.jpg",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\4\\3aa80d71-97f4-41f5-98a1-02181bf8dd9b_d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\5\\2ff3c8e0-1aac-4eec-9ae2-ac18b96aeeec_d3.jpg",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\5\\2ff3c8e0-1aac-4eec-9ae2-ac18b96aeeec_d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Application_WebAPI\\Com\\wwwroot\\ImagesUploaded\\6\\74af289d-1eb0-440f-9a97-2f1dd6f19943_d3.jpg",
+      "PackagePath": "staticwebassets\\ImagesUploaded\\6\\74af289d-1eb0-440f-9a97-2f1dd6f19943_d3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Com.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Com.props",
+      "PackagePath": "build\\Com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Com.props",
+      "PackagePath": "buildMultiTargeting\\Com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Com.props",
+      "PackagePath": "buildTransitive\\Com.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
